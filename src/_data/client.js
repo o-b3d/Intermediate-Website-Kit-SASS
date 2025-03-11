@@ -1,14 +1,14 @@
 module.exports = {
     name: "Code Stitch Web Designs",
-    email: "help@codestitch.app",
-    phoneForTel: "555-779-4407",
-    phoneFormatted: "(555) 779-4407",
+    email: "info@ogwebsolutions.com",
+    phoneForTel: "305-320-3111",
+    phoneFormatted: "(305) 320-3111",
     address: {
-        lineOne: "First Address Line",
-        lineTwo: "Second Address Line",
-        city: "Denver",
-        state: "CO",
-        zip: "80206",
+        lineOne: "8660 West Flagler Street",
+        lineTwo: "Suite 100",
+        city: "Miami",
+        state: "FL",
+        zip: "33144",
         country: "US",
         mapLink: "https://goo.gl/maps/UAQn4vuGDiwv7DV39",
     },
@@ -17,5 +17,5 @@ module.exports = {
         instagram: "https://www.instagram.com/",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-    domain: "https://www.example.com",
+    domain: "https://www.ogwebsolutions.com",
 };
